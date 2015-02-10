@@ -6,3 +6,4 @@ Deadly Skills
 * Javascript
 * git
 * Hanzo Sword
+* Killing history using git rebase
